@@ -1,7 +1,7 @@
 {
     "name":  "AUTOmation Comms",
     "slug":  "AUTOmation-Comms",
-    "version":  "0.3.0",
+    "version":  "0.2.0",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
@@ -9,6 +9,6 @@
     "homepage":  "https://mrgind.com/",
     "description":  "Email and text messaging for the AUTOmation plugin. Send estimates and invoices to customers through pluggable connectors (wp_mail, SMTP, and later SMS providers). Requires the AUTOmation plugin.",
     "last_updated":  "2026-08-17",
-    "changelog":  "\u003ch4\u003e0.3.0\u003c/h4\u003e\u003cp\u003ev0.3.0: read .env from wp-content first, so a plugin update cannot delete it\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Comms-0.3.0.zip"
+    "changelog":  "<h4>0.2.0</h4><p>Self-hosted updates. (0.3.0 was rolled back.)</p>",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Comms-0.2.0.zip"
 }

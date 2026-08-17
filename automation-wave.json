@@ -1,7 +1,7 @@
 {
     "name":  "AUTOmation for Wave",
     "slug":  "AUTOmation-Wave",
-    "version":  "0.11.0",
+    "version":  "0.10.0",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
@@ -9,6 +9,6 @@
     "homepage":  "https://mrgind.com/",
     "description":  "Wave (waveapps) integration for the AUTOmation plugin: sync customers, push estimates/invoices, and read payment status back. Requires the AUTOmation plugin.",
     "last_updated":  "2026-08-17",
-    "changelog":  "\u003ch4\u003e0.11.0\u003c/h4\u003e\u003cp\u003ev0.11.0: the Wave token must outlive a plugin update\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.11.0.zip"
+    "changelog":  "<h4>0.10.0</h4><p>Self-hosted updates. (0.11.0 was rolled back.)</p>",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.10.0.zip"
 }
