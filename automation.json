@@ -1,7 +1,7 @@
 {
     "name":  "AUTOmation",
     "slug":  "AUTOmation",
-    "version":  "2.9.0",
+    "version":  "2.10.0",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
@@ -9,6 +9,6 @@
     "homepage":  "https://mrgind.com/",
     "description":  "Operational hub for an auto mechanic business: customers, locations, vehicles, jobs, scheduling, parts, and service history, with estimates/invoices synced to Wave (waveapps) and VINs decoded via NHTSA vPIC.",
     "last_updated":  "2026-08-17",
-    "changelog":  "\u003ch4\u003e2.9.0\u003c/h4\u003e\u003cp\u003ev2.9.0: add a \"Standby\" job status\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-2.9.0.zip"
+    "changelog":  "\u003ch4\u003e2.10.0\u003c/h4\u003e\u003cp\u003ev2.10.0: let integrations keep secrets out of backups\u003c/p\u003e",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-2.10.0.zip"
 }
