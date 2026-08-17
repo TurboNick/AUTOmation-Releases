@@ -1,0 +1,14 @@
+{
+    "name":  "AUTOmation for Wave",
+    "slug":  "AUTOmation-Wave",
+    "version":  "0.10.0",
+    "requires":  "7.0",
+    "requires_php":  "8.2",
+    "tested":  "7.0",
+    "author":  "Nick G",
+    "homepage":  "https://mrgind.com/",
+    "description":  "Wave (waveapps) integration for the AUTOmation plugin: sync customers, push estimates/invoices, and read payment status back. Requires the AUTOmation plugin.",
+    "last_updated":  "2026-08-17",
+    "changelog":  "\u003ch4\u003e0.10.0\u003c/h4\u003e\u003cp\u003eself-hosted updates: declare an Update URI and register core\u0027s updater\u003c/p\u003e",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.10.0.zip"
+}
