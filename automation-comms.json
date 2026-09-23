@@ -8,7 +8,7 @@
     "author":  "Nick G",
     "homepage":  "https://mrgind.com/",
     "description":  "Email and text messaging for the AUTOmation plugin. Send estimates and invoices to customers through pluggable connectors (wp_mail, SMTP, and later SMS providers). Requires the AUTOmation plugin.",
-    "last_updated":  "2026-08-17",
+    "last_updated":  "2026-09-22",
     "changelog":  "\u003ch4\u003e0.3.1\u003c/h4\u003e\u003cp\u003ev0.3.1: revert the wp-content/.env lookup\u003c/p\u003e",
     "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Comms-0.3.1.zip"
 }

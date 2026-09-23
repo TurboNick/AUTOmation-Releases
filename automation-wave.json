@@ -1,14 +1,14 @@
 {
     "name":  "AUTOmation for Wave",
     "slug":  "AUTOmation-Wave",
-    "version":  "0.12.0",
+    "version":  "0.14.0",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
     "author":  "Nick G",
     "homepage":  "https://mrgind.com/",
     "description":  "Wave (waveapps) integration for the AUTOmation plugin: sync customers, push estimates/invoices, and read payment status back. Requires the AUTOmation plugin.",
-    "last_updated":  "2026-08-17",
-    "changelog":  "\u003ch4\u003e0.12.0\u003c/h4\u003e\u003cp\u003ev0.12.0: read the Wave token from a wp-config.php constant\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.12.0.zip"
+    "last_updated":  "2026-09-22",
+    "changelog":  "\u003ch4\u003e0.14.0\u003c/h4\u003e\u003cp\u003etests: keep the token precedence proven now that the dev machine defines the constant\u003c/p\u003e",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.14.0.zip"
 }
