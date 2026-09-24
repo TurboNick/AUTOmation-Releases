@@ -1,7 +1,7 @@
 {
     "name":  "AUTOmation",
     "slug":  "AUTOmation",
-    "version":  "2.16.0",
+    "version":  "2.16.1",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
@@ -9,6 +9,6 @@
     "homepage":  "https://mrgind.com/",
     "description":  "Operational hub for an auto mechanic business: customers, locations, vehicles, jobs, scheduling, parts, and service history, with estimates/invoices synced to Wave (waveapps) and VINs decoded via NHTSA vPIC.",
     "last_updated":  "2026-09-24",
-    "changelog":  "\u003ch4\u003e2.16.0\u003c/h4\u003e\u003cp\u003ev2.16.0: the Jobs calendar moves to FullCalendar, with drag-to-reschedule\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-2.16.0.zip"
+    "changelog":  "\u003ch4\u003e2.16.1\u003c/h4\u003e\u003cp\u003ev2.16.1: \"Check again\" on Dashboard -\u0026gt; Updates really re-checks our releases\u003c/p\u003e",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-2.16.1.zip"
 }
