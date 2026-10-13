@@ -1,14 +1,14 @@
 {
     "name":  "AUTOmation for Wave",
     "slug":  "AUTOmation-Wave",
-    "version":  "0.15.0",
+    "version":  "0.19.0",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
     "author":  "Nick G",
     "homepage":  "https://mrgind.com/",
-    "description":  "Wave (waveapps) integration for the AUTOmation plugin: sync customers, push estimates/invoices, and read payment status back. Requires the AUTOmation plugin.",
-    "last_updated":  "2026-09-24",
-    "changelog":  "\u003ch4\u003e0.15.0\u003c/h4\u003e\u003cp\u003edocs: note that core DB v19 dropped the legacy wave_customer_id column\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.15.0.zip"
+    "description":  "Wave (waveapps) integration for the AUTOmation plugin: sync customers, push invoices, and read payment status back. Requires the AUTOmation plugin.",
+    "last_updated":  "2026-10-13",
+    "changelog":  "\u003ch4\u003e0.19.0\u003c/h4\u003e\u003cp\u003eAnswer amat_invoice_view_url with the invoice\u0027s stored Wave view/pay link; 0.19.0\u003c/p\u003e",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-Wave-0.19.0.zip"
 }
