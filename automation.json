@@ -1,14 +1,14 @@
 {
     "name":  "AUTOmation",
     "slug":  "AUTOmation",
-    "version":  "2.39.0",
+    "version":  "2.41.0",
     "requires":  "7.0",
     "requires_php":  "8.2",
     "tested":  "7.0",
     "author":  "Nick G",
     "homepage":  "https://mrgind.com/",
     "description":  "Operational hub for an auto mechanic business: customers, locations, vehicles, jobs, scheduling, parts, and service history, with estimates/invoices synced to Wave (waveapps) and VINs decoded via NHTSA vPIC.",
-    "last_updated":  "2026-10-13",
-    "changelog":  "\u003ch4\u003e2.39.0\u003c/h4\u003e\u003cp\u003eBuild status: staging3 upgraded to 2.39.0 / DB v27; production is 2.16.1 / DB v19\u003c/p\u003e",
-    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-2.39.0.zip"
+    "last_updated":  "2026-10-21",
+    "changelog":  "\u003ch4\u003e2.41.0\u003c/h4\u003e\u003cp\u003eDocs: production launched; Wave name-only match bug parked for after launch\u003c/p\u003e",
+    "download_url":  "https://raw.githubusercontent.com/TurboNick/AUTOmation-Releases/main/AUTOmation-2.41.0.zip"
 }
